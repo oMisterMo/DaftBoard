@@ -27,6 +27,7 @@ public class LoadingScreen extends Screen {
         Assets.oneUp = game.getAudio().newSound("oneUp.wav");
         //GameScreen
         Assets.background = g.newPixmap("bg.jpeg", PixmapFormat.RGB565);
+        Assets.bg = g.newPixmap("bg4.jpg", PixmapFormat.RGB565);
 
 
         //Load sound fx

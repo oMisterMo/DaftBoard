@@ -16,6 +16,7 @@ public class Assets {
 
     //Game images
     public static Pixmap background;
+    public static Pixmap bg;
     public static Pixmap title;
 
     //Game sounds
