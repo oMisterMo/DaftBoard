@@ -5,9 +5,6 @@ import com.ds.mo.engine.android.AndroidGraphics;
 import com.ds.mo.engine.common.Color;
 import com.ds.mo.engine.common.Vector2D;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by Mo on 17/12/2017.
  */
